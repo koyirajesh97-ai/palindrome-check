@@ -5,6 +5,7 @@ public class Palindrome {
     // moved code around
         Scanner s = new Scanner(System.in);
         System.out.println("Enter a string");
+        // tested manually
         String str = s.nextLine();
         String rev = "";
         for(int i = str.length()-1; i>=0; i--){
