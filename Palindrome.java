@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Palindrome {
     public static void main(String args[]){
+    // can refactor later
     // testing
     // moved code around
         Scanner s = new Scanner(System.in);
