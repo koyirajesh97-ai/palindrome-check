@@ -16,6 +16,7 @@ public class Palindrome {
         }
         if(str.equals(rev)){
             System.out.println("palindrome");
+            // cleanup later
         }else{
             System.out.println("not palindrome");
         }
