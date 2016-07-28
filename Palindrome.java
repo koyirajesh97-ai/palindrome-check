@@ -1,4 +1,5 @@
 import java.util.Scanner;
+// TODO: handle edge cases
 // done
 
 public class Palindrome {
